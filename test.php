@@ -1,3 +1,3 @@
-<?
-system('ls -al')
+<?php
+system('ls -al');
 ?>
